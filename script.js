@@ -19,7 +19,7 @@ const segments = [
   { label: "Você merece tudo de melhor! 🎁", color: "#0a3d62" },
   { label: "Que seu dia seja tão especial quanto você", color: "#1e3799" },
   { label: "Grata por ter você na minha vida! 🌟", color: "#2f3640" },
-  { label: "Meu melhor amigo e parceiro! 🤗", color: "#3b3b98" },
+  { label: "Voce é Meu melhor amigo e parceiro! 🤗", color: "#3b3b98" },
   { label: "Você é especial demais! 💫", color: "#576574" },
   { label: "A zoeira nunca para com você! 😂🔥", color: "#1e272e" }
 ];
